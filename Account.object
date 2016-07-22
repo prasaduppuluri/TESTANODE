@@ -22,10 +22,7 @@
         <actionName>EmailHighlightAction</actionName>
         <type>Default</type>
     </actionOverrides>
-    <actionOverrides>
-        <actionName>EnableCustomerPortalUser</actionName>
-        <type>Default</type>
-    </actionOverrides>
+   
     <actionOverrides>
         <actionName>Follow</actionName>
         <type>Default</type>
